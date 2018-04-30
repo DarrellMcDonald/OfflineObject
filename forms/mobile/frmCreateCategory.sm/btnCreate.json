@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s035c3398b554e7f9299adf8f5b8cd01",
+    "_text_": "Create Category",
+    "_top_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "saa2a1fbd488466abf4e89b4fa76bf02",
+    "id": "btnCreate",
+    "ide_onClick": "AS_Button_af0fc70c9a38415ebfefcea41ddd6af4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c5e7a2da31274fa7b1d1c8467a007d5e",
+    "name": "kony.ui.Button",
+    "parent": "frmCreateCategory",
+    "pf": "frmCreateCategory",
+    "wType": "Button",
+    "zindex": 1
+}

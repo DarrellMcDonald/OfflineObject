@@ -1,0 +1,20 @@
+function skinsInit() {
+    CopyslLabel0caddd20a7c1343 = "CopyslLabel0caddd20a7c1343";
+    CopyslLabel0cd3b108ffa2746 = "CopyslLabel0cd3b108ffa2746";
+    CopyslLabel0dc2e0582092844 = "CopyslLabel0dc2e0582092844";
+    CopyslLabel0g369af8d72954a = "CopyslLabel0g369af8d72954a";
+    CopyslLabel0h2a626a5ec2d44 = "CopyslLabel0h2a626a5ec2d44";
+    seg2Focus = "seg2Focus";
+    seg2Normal = "seg2Normal";
+    slButtonGlossBlue = "slButtonGlossBlue";
+    slButtonGlossRed = "slButtonGlossRed";
+    slDynamicNotificationForm = "slDynamicNotificationForm";
+    slForm = "slForm";
+    slLabel = "slLabel";
+    slPopup = "slPopup";
+    slStaticNotificationForm = "slStaticNotificationForm";
+    slTextBox = "slTextBox";
+    slTitleBar = "slTitleBar";
+    slWatchForm = "slWatchForm";
+    sliPhoneSegmentHeader = "sliPhoneSegmentHeader";
+};

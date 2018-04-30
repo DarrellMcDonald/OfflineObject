@@ -1,0 +1,28 @@
+{
+    "AS_Button_idd31725f84e4cdb85db74bf3e8077c1": {
+        "id": "AS_Button_idd31725f84e4cdb85db74bf3e8077c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditCategory",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b665155c3a744dee85e15e290f86ecfb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a7cd169021a1420e87488561ee93dfe2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onDelete",
+            "display": "onDelete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
